@@ -7,7 +7,7 @@
 
 - 🔭 Currently working on **transitioning Bank Al-Habib's legacy Fintech system at [Teresol](https://www.linkedin.com/company/teresolpvtltd/posts/?feedView=all)**  
 - 🌱 I’m currently learning **Microfrontend architecture** and exploring **Next.js** for modern web development 
-- 💬 Ask me about **Vue, React Native, Node.js, Express.js, MongoDB**  
+- 💬 Ask me about **MERN Stack (MongoDB, Express.js, React.js, Node.js) and modern web development**
 - 📫 Reach me at: **[mumerhaider9@gmail.com](mailto:mumerhaider9@gmail.com)**  
 - 📄 View my **[Portfolio](https://umerhaiderdev.netlify.app/)**  
 - ⚡ Fun fact: *I can debug for hours but still forget where I left my coffee ☕*  
